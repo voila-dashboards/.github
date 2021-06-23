@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: "\U0001F680 Feature request"
 about: Suggest a way to improve Voilà
 labels: enhancement
 ---
