@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4D5 Documentation improvement"
 about: Create a report to help us improve the documentation
-labels: docs
+labels: documentation
 ---
 
 <!--To help us understand and resolve your issue, please fill out the form to the best of your ability.-->
